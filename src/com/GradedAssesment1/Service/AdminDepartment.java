@@ -2,7 +2,7 @@ package com.GradedAssesment1.Service;
 
 public class AdminDepartment extends SuperDepartment{
 
-	
+
 	public String departmentName()
 	{
 		return "Admin Department"; 

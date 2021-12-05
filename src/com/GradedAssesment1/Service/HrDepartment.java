@@ -1,7 +1,7 @@
 package com.GradedAssesment1.Service;
 
 public class HrDepartment extends SuperDepartment{
-	
+
 	public String departmentName()
 	{
 		return "Hr Department";
@@ -18,6 +18,4 @@ public class HrDepartment extends SuperDepartment{
 	{
 		return "team Lunch";
 	}
-
-
 }
